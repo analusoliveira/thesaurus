@@ -5,7 +5,8 @@ date: &CREATED_DATE 2026-10-01T17:44:00-0300
 type: "concept"
 title: "pau-a-pique"
 title_source:
-- refid: "@vasconcellos:1979arquitetura"
+  - citekey: "@vasconcellos:1979arquitetura"
+    note: "p. 45-51"
 titles:
 - display: "pescoção"
   type: "alt"
