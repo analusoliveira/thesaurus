@@ -50,7 +50,7 @@ O pau-a-pique é descrito como uma vedação formada por paus colocados
 perpendicularmente entre baldrames e frechais, aos quais se associam varas ou
 ripas mais finas, dispostas horizontalmente. Esses elementos compõem uma trama
 capaz de receber e sustentar o barro que preenche os vazios da armação
-[@vasconcellos:1979arquitetura].
+[@vasconcellos:1979arquitetura, 45].
 
 O barro é jogado e apertado sobre a trama com as mãos, sem o emprego de
 ferramentas. Por essa forma de execução, Vasconcellos registra as denominações
