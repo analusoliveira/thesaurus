@@ -58,4 +58,3 @@ ferramentas. Por essa forma de execução, @vasconcellos:1979arquitetura [45] re
 e "taipa de sebe". Pode ser empregado em paredes externas e internas, embora
 o autor assinale preferência pelo uso em interiores e pavimentos elevados,
 devido à leveza, à pequena espessura, à economia e à rapidez de construção.
-[@vasconcellos:1979arquitetura].
