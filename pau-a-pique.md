@@ -57,5 +57,5 @@ ferramentas. Por essa forma de execução, @vasconcellos:1979arquitetura [45] re
 "pescoção", "tapona" e "sopapo". O sistema também é denominado "taipa de mão"
 e "taipa de sebe". Pode ser empregado em paredes externas e internas, embora
 o autor assinale preferência pelo uso em interiores e pavimentos elevados,
-devido à leveza, à pequena espessura, à economia e à rapidez de construção
+devido à leveza, à pequena espessura, à economia e à rapidez de construção.
 [@vasconcellos:1979arquitetura].
