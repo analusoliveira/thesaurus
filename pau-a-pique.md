@@ -53,7 +53,7 @@ capaz de receber e sustentar o barro que preenche os vazios da armação
 [@vasconcellos:1979arquitetura, 45].
 
 O barro é jogado e apertado sobre a trama com as mãos, sem o emprego de
-ferramentas. Por essa forma de execução, Vasconcellos registra as denominações
+ferramentas. Por essa forma de execução, @vasconcellos:1979arquitetura [45] registra as denominações
 "pescoção", "tapona" e "sopapo". O sistema também é denominado "taipa de mão"
 e "taipa de sebe". Pode ser empregado em paredes externas e internas, embora
 o autor assinale preferência pelo uso em interiores e pavimentos elevados,
