@@ -33,7 +33,7 @@ definition:
   source:
   - refid: "@vasconcellos:1979arquitetura"
 record_rights:
-- type: "generic"
+- type: "specific"
   holder:
     type: "corporate"
     name:
